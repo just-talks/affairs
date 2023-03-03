@@ -1,3 +1,7 @@
 - color: fef2c0
   description: Author 可申请锁住当前讨论
   name: Locked
+
+- color: d7eb3c
+  description:
+  name: 新增版块
